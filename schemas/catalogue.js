@@ -10,6 +10,11 @@ export default {
             type: 'string'
         },
         {
+            name: 'shop_logo',
+            title: 'Shop Logo',
+            type: 'image'
+        },
+        {
             name: 'breakfast',
             title: 'Breakfast',
             type: 'array',
